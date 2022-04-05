@@ -5,7 +5,7 @@
         "author" : "Coriss Ambady",
         "title": "Financial Analyst",
         "comment": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.",
-        "rate": "5"
+        "rate": "3.5"
     },
     {
         "id" : "rv2",
@@ -37,7 +37,7 @@
         "author" : "Laura Widerski",
         "title": "Sales Specialist",
         "comment": "Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-        "rate": "5"
+        "rate": "3.5"
     },
     {
         "id" : "rv6",
@@ -45,6 +45,30 @@
         "author" : "Jackie Sanders",
         "title": "Investment Planner",
         "comment": "Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus magnis dis montes, nascetur ridiculus mus. Donec sed odio dui. Nulla vitae elit libero.",
-        "rate": "4.8"
+        "rate": "4.5"
+    },
+    {
+        "id" : "rv7",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te1.jpg",
+        "author" : "Ambady Coriss",
+        "title": "Financial Analyst",
+        "comment": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.",
+        "rate": "5"
+    },
+    {
+        "id" : "rv8",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te2.jpg",
+        "author" : "Zamora Cory",
+        "title": "Marketing Specialist",
+        "comment": "Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+        "rate": "4"
+    },
+    {
+        "id" : "rv9",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te3.jpg",
+        "author" : "Brooten Nikolas",
+        "title": "Sales Manager",
+        "comment": "Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget porta ac consectetur vestibulum.",
+        "rate": "4.5"
     }
 ]

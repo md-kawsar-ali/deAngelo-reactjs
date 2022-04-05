@@ -12,7 +12,7 @@ const useReviews = (isAll) => {
     if (isAll) {
         return [reviews, setReviews];
     } else {
-        reviews = reviews.slice(0, 3);
+        reviews = reviews.slice(0, 6);
         return [reviews, setReviews];
     }
 }
