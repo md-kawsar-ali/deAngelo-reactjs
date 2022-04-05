@@ -1,0 +1,50 @@
+[
+    {
+        "id" : "rv1",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te1.jpg",
+        "author" : "Coriss Ambady",
+        "title": "Financial Analyst",
+        "comment": "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus.",
+        "rate": "5"
+    },
+    {
+        "id" : "rv2",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te2.jpg",
+        "author" : "Cory Zamora",
+        "title": "Marketing Specialist",
+        "comment": "Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed.",
+        "rate": "4.5"
+    },
+    {
+        "id" : "rv3",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te3.jpg",
+        "author" : "Nikolas Brooten",
+        "title": "Sales Manager",
+        "comment": "Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget porta ac consectetur vestibulum. Donec sed odio dui consectetur adipiscing elit.",
+        "rate": "4"
+    },
+    {
+        "id" : "rv4",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te4.jpg",
+        "author" : "Ema Watson",
+        "title": "Financial Analyst",
+        "comment": "Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus tincidunt auctor. Nullam eu sagittis mauris. Donec non dolor ac elit aliquam tincidunt at at sapien. Aenean tortor libero condimentum ac laoreet vitae.",
+        "rate": "4.8"
+    },
+    {
+        "id" : "rv5",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te5.jpg",
+        "author" : "Laura Widerski",
+        "title": "Sales Specialist",
+        "comment": "Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "rate": "5"
+    },
+    {
+        "id" : "rv6",
+        "img": "https://sandbox.elemisthemes.com/assets/img/avatars/te6.jpg",
+        "author" : "Jackie Sanders",
+        "title": "Investment Planner",
+        "comment": "Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus magnis dis montes, nascetur ridiculus mus. Donec sed odio dui. Nulla vitae elit libero.",
+        "rate": "4.8"
+    }
+]
