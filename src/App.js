@@ -9,7 +9,10 @@ function App() {
   return (
     <div className="App">
       <Header></Header>
-
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/reviews" element={<Reviews isAll={true} />} />
+      </Routes>
     </div>
   );
 }
