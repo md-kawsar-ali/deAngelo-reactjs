@@ -13,6 +13,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/reviews" element={<Reviews isAll={true} />} />
       </Routes>
+      <Footer></Footer>
     </div>
   );
 }
